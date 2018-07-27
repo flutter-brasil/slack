@@ -2,7 +2,7 @@
 
 Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) em nossos projetos.
 
-O Training Center é um local aberto a todos e todos devem se sentir confortáveis participando de nossas iniciativas.
+O slack Flutter Brasil é um local aberto a todos e todos devem se sentir confortáveis participando de nossas iniciativas.
 
 Não toleramos nenhum tipo de repúdio, humilhação ou discriminação por:
 
